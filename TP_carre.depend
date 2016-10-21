@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477064786 source:d:\projet codeblock\tp_carre\tp_carre\main.c
+	<stdio.h>
+	<stdlib.h>
+
